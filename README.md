@@ -16,7 +16,7 @@ I'm currently contributing my skills at [Infyu Studio](#), where I work as a PHP
 
 ## 🌐 Featured Projects
 
-- [Project 1](#): Brief description and link
+- [Project 1](#https://linkedin.com/in/pinal-chauhan-74582b62/): Brief description and link
 - [Project 2](#): Brief description and link
 - [Project 3](#): Brief description and link
 
